@@ -1,4 +1,6 @@
 # Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu
+Proje Pdf Dosyası:[Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu-210260303-210260017.pdf](https://github.com/user-attachments/files/18291079/Arac.Yedek.Parca.Tedarik.ve.Pazarlama.Otomasyonu-210260303-210260017.pdf)
+
 Proje Başlığı: Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu
 Proje Ekibindeki Kişiler: 
 210260303-Cem Davrak
