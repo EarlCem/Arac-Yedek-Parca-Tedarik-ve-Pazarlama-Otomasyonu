@@ -1,0 +1,1 @@
+# Ara-Yedek-Par-a-Tedarik-ve-Pazarlama-Otomasyonu
