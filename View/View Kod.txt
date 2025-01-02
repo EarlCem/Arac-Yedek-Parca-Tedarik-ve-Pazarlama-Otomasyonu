@@ -1,0 +1,30 @@
+Kargo Takip Numarı üzerinden kargo durumu sorgulama(view)
+
+CREATE VIEW KargoSiparisDurum_View AS
+SELECT 
+    K.Takip_No AS Kargo_Takip_No,
+    K.Durum AS Kargo_Durumu,
+    S.Siparis_ID AS Siparis_Numara,
+    S.Siparis_Tarihi AS Siparis_Tarihi,
+    S.Toplam_Tutar AS Siparis_Tutari,
+    M.Ad_Soyad AS Musteri_Adi,
+    M.Telefon AS Musteri_Telefon,
+    M.Adres AS Musteri_Adresi,
+    SK.Tahmini_Teslim_Tarihi AS Tahmini_Teslim,
+    SK.Teslim_Durumu AS Teslim_Durumu
+FROM 
+    Kargo K
+INNER JOIN 
+    Sipariş S ON K.Siparis_ID = S.Siparis_ID
+INNER JOIN 
+    Müsteri M ON S.Müsteri_ID = M.Müsteri_ID
+INNER JOIN 
+    Siparis_Kargo SK ON K.Kargo_ID = SK.Kargo_ID AND S.Siparis_ID = SK.Siparis_ID;
+
+Çalıştırılması
+
+SELECT *FROM KargoSiparisDurum_View
+WHERE Kargo_Takip_No = '10016';
+
+
+
