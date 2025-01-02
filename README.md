@@ -1,1 +1,1 @@
-# Ara-Yedek-Par-a-Tedarik-ve-Pazarlama-Otomasyonu
+# Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu
