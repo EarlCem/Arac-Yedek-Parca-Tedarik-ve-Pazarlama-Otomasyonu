@@ -87,3 +87,7 @@ Müşteriler sipariş verebilmeli,depolara ürün tedarik edilebilmeli ve depo i
 13- Kargo Firma Adı->Kargo:İsmi(Bir kargo firması birden fazla kargoya hizmet verebilir)
 
 14- Depo-Tedarik Siparişi:Gideceği(1-N)(Bir depo birden fazla tedarik siparişi alabilir)
+
+E-R Diyagramı
+![E-R Diagramım Son Hali](https://github.com/user-attachments/assets/5502c25e-1a67-4af8-a6d8-aaaca8d175d6)
+
