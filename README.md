@@ -1,5 +1,6 @@
 # Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu
-Proje Pdf Dosyası:[6.Grup-210260303-210260017.pdf](https://github.com/user-attachments/files/18307229/6.Grup-210260303-210260017.pdf)
+Proje Pdf Dosyası:[6.Grup-210260303.pdf](https://github.com/user-attachments/files/18307278/6.Grup-210260303.pdf)
+
 
 
 
@@ -7,8 +8,6 @@ Proje Başlığı: Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu
 Proje Ekibindeki Kişiler:
 
 210260303-Cem Davrak
-
-210260017-Süleyman Emir Eroğlu
 
 1.Proje Amacı: Bir ticaret iş akışını desteklemek,iş sürecinde oluşabilecek yanlışları önlemek için stok yönetimi,tedarikçi yönetimi,depo yönetimi,stok yönetimi ve kargo takibi yapabilmemizi sağlar.
 Müşteriler sipariş verebilmeli,depolara ürün tedarik edilebilmeli ve depo içeriği bilinip ona göre stok takibi yapılabilmeli.
