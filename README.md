@@ -1,5 +1,6 @@
 # Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu
-Proje Pdf Dosyası:
+Proje Pdf Dosyası:[6.Grup-210260303-210260017.pdf](https://github.com/user-attachments/files/18307229/6.Grup-210260303-210260017.pdf)
+
 
 
 Proje Başlığı: Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu
