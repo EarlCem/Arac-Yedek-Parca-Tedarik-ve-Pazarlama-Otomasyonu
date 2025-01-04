@@ -7,6 +7,7 @@ Proje Başlığı: Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu
 Proje Ekibindeki Kişiler:
 
 210260303-Cem Davrak
+
 210260017-Süleyman Emir Eroğlu
 
 1.Proje Amacı: Bir ticaret iş akışını desteklemek,iş sürecinde oluşabilecek yanlışları önlemek için stok yönetimi,tedarikçi yönetimi,depo yönetimi,stok yönetimi ve kargo takibi yapabilmemizi sağlar.
