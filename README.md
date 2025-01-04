@@ -4,7 +4,8 @@ Proje Pdf Dosyası:[6.Grup-210260303-210260017.pdf](https://github.com/user-atta
 
 
 Proje Başlığı: Araç Yedek Parça Tedarik ve Pazarlama Otomasyonu
-Proje Ekibindeki Kişiler: 
+Proje Ekibindeki Kişiler:
+
 210260303-Cem Davrak
 210260017-Süleyman Emir Eroğlu
 
